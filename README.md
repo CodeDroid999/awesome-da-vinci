@@ -29,7 +29,7 @@ The work exists between art criticism, theology, metaphysics, historical analysi
 
 ---
 
-# 1. The Painter
+# The Painter
 
 ## Questioning the Hand of Leonardo
 
@@ -100,7 +100,7 @@ The brush becomes a neurological instrument through which civilization remembers
 
 ---
 
-# 2. The Muse
+# The Muse
 
 ## Jesus and the Arrangement of the Disciples
 
@@ -169,7 +169,7 @@ The painting therefore becomes timeless.
 
 ---
 
-# 3. The Subject
+# The Subject
 
 ## God, Humanity, and the Audience
 
@@ -252,7 +252,7 @@ Humanity continues reenacting:
 
 ---
 
-# 4. Originality
+# Originality
 
 ## Can the First Original Truly Be Original?
 
@@ -308,7 +308,7 @@ Thus Leonardo’s originality lies not in inventing the story but in redesigning
 
 ---
 
-# 5. History Against the Passing of Time
+# History Against the Passing of Time
 
 ## Is It Truly the Last Supper?
 
