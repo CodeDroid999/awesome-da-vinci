@@ -1,6 +1,6 @@
 # Awe-Some-Da-Vinci
 
-## State of NeuerRennaissance
+## State of Neuer Rennaissance
 <div align="center">
   <img 
     src="./images/15_165302_588.jpg"
@@ -9,7 +9,7 @@
   />
 </div>
 
-### A Philosophical and Artistic Exploration of Italian Renaissance polymath and painter’s entity artwork, "The Last Supper", "Mural by Leonardo da Vinci".
+### A Philosophical and Artistic Exploration of Italian Renaissance polymath and painter’s entity artwork, "The Last Supper", "Mural by Leonardo da Vinci".
 
 ---
 
