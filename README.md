@@ -2,7 +2,7 @@
 
 ## State of Neu-Reconnaissance
 
-### A Philosophical and Artistic Exploration of entity["people","Leonardo da Vinci","Italian Renaissance polymath and painter"]’s entity["artwork","The Last Supper","Mural by Leonardo da Vinci"]
+### A Philosophical and Artistic Exploration of Italian Renaissance polymath and painter’s entity artwork, "The Last Supper", "Mural by Leonardo da Vinci".
 
 ---
 
