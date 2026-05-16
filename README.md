@@ -3,7 +3,7 @@
 ## State of Neu-Reconnaissance
 <div align="center">
   <img 
-    src="./images/last-supper.jpg"
+    src="./images/15_165302_588.jpg"
     alt="The Last Supper"
     style="width:100%; max-width:1400px; height:auto;"
   />
