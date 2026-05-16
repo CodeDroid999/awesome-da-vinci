@@ -35,7 +35,7 @@ The work exists between art criticism, theology, metaphysics, historical analysi
 
 ### Who was Leonardo painting for?
 
-entity["people","Leonardo da Vinci","Italian Renaissance polymath and painter"] was not simply documenting a biblical scene. He was constructing a psychological theatre.
+"Leonardo da Vinci","Italian Renaissance polymath and painter"] was not simply documenting a biblical scene. He was constructing a psychological theatre.
 
 Unlike earlier religious painters who emphasized holiness through static symbolism, Leonardo transformed the moment into an emotional explosion. The painting captures the exact moment when Jesus says:
 
