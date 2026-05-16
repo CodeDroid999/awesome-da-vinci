@@ -1,6 +1,6 @@
 # Awe-Some-Da-Vinci
 
-## State of Neu-Reconnaissance
+## State of NeuerRennaissance
 <div align="center">
   <img 
     src="./images/15_165302_588.jpg"
@@ -15,7 +15,7 @@
 
 # Introduction
 
-This project, *Awe-Some-Da-Vinci: State of Neu-Reconnaissance*, is an exploration of consciousness, symbolism, divinity, humanity, authorship, memory, and time through the lens of *The Last Supper*. Rather than treating the painting merely as a historical artwork, this project approaches it as a neurological, philosophical, spiritual, and temporal construct.
+This project, *Awe-Some-Da-Vinci: State of Neuer Renaissance*, is an exploration of consciousness, symbolism, divinity, humanity, authorship, memory, and time through the lens of *The Last Supper*. Rather than treating the painting merely as a historical artwork, this project approaches it as a neurological, philosophical, spiritual, and temporal construct.
 
 The investigation is built around five major points:
 
