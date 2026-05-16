@@ -1,6 +1,13 @@
 # Awe-Some-Da-Vinci
 
 ## State of Neu-Reconnaissance
+<div align="center">
+  <img 
+    src="./images/last-supper.jpg"
+    alt="The Last Supper"
+    style="width:100%; max-width:1400px; height:auto;"
+  />
+</div>
 
 ### A Philosophical and Artistic Exploration of Italian Renaissance polymath and painter’s entity artwork, "The Last Supper", "Mural by Leonardo da Vinci".
 
