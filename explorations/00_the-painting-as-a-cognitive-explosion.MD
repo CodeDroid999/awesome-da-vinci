@@ -1,4 +1,4 @@
-# /explorations/01_the_painting_as_a_cognitive_explosion
+# /00_the_painting_as_a_cognitive_explosion
 
 ## The Painting as a Single Cognitive Explosion
 
