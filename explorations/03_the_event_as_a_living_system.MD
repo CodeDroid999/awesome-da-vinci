@@ -1,4 +1,4 @@
-# /explorations/02_the_event_as_a_living_system
+# /03_the_event_as_a_living_system
 
 ## The Event as a Living System
 
