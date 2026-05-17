@@ -1,4 +1,4 @@
-# /exploration/as-a-map-of-consciousness
+# /02_as-a-map-of-consciousness
 ## The Three Chambers of Consciousness
 
 ### A Vertical Anatomy of Human Existence in *Awe-Some-Da-Vinci: State of Neuer Renaissance*
