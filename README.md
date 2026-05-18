@@ -106,7 +106,7 @@ The brush becomes a neurological instrument through which civilization remembers
 
 ### Why this exact moment?
 
-entity["people","Jesus Christ","Central figure of Christianity"] is positioned at the center of the composition.
+"Jesus Christ","Central figure of Christianity" is positioned at the center of the composition.
 
 The entire geometry of the room converges toward him.
 
@@ -165,7 +165,7 @@ This moment matters because it is universally human:
 * the second before trust breaks,
 * the silence before history changes.
 
-The painting therefore becomes timeless.
+The painting, therefore, becomes timeless.
 
 ---
 
@@ -258,7 +258,7 @@ Humanity continues reenacting:
 
 ### Was the Painting Original?
 
-entity["artwork","The Last Supper","Mural by Leonardo da Vinci"] was painted by Leonardo.
+The entity ["artwork","The Last Supper","Mural by Leonardo da Vinci"] was painted by Leonardo.
 
 But the story existed before the painting.
 
@@ -283,7 +283,7 @@ The story existed in:
 * memory,
 * scripture.
 
-Therefore the painting may not be the first “Last Supper.”
+Therefore, the painting may not be the first “Last Supper.”
 
 The first Last Supper may have existed:
 
@@ -292,7 +292,7 @@ The first Last Supper may have existed:
 * in spiritual imagination,
 * in collective consciousness.
 
-Leonardo’s version becomes a translation rather than an origin.
+Leonardo’s version becomes the first true translation rather than the original.
 
 ### Originality as Reconstruction
 
@@ -304,7 +304,7 @@ Instead, originality may mean:
 * reconstructing perception,
 * giving old ideas new neurological life.
 
-Thus Leonardo’s originality lies not in inventing the story but in redesigning how humanity emotionally experiences it.
+Thus, Leonardo’s originality lies not in inventing the story but in redesigning how humanity experiences it.
 
 ---
 
@@ -312,7 +312,7 @@ Thus Leonardo’s originality lies not in inventing the story but in redesigning
 
 ## Is It Truly the Last Supper?
 
-### The Problem of “Last”
+### The Problem of “Last.”
 
 The title itself contains a paradox.
 
@@ -327,7 +327,7 @@ The event survives through:
 * religion,
 * digital reconstruction.
 
-Therefore the supper continues across time.
+Therefore, the supper continues across time.
 
 It becomes eternally repeated.
 
@@ -351,7 +351,7 @@ A modern viewer may see:
 
 Future civilizations may interpret it differently again.
 
-Time therefore repaints the artwork continuously.
+Time, therefore, repaints the artwork continuously.
 
 ---
 
@@ -359,7 +359,7 @@ Time therefore repaints the artwork continuously.
 
 The project also investigates creation itself.
 
-Through the story of entity["fictional_character","Adam","Biblical first man"] and entity["fictional_character","Eve","Biblical first woman"], another temporal question emerges:
+Through the story of entity["fictional_character", "Adam", "Biblical first man"] and entity["fictional_character", "Eve", "Biblical first woman"], another temporal question emerges:
 
 If creation stories are retold across generations, then where does the “original” truly exist?
 
@@ -387,11 +387,11 @@ Time itself becomes a co-artist.
 
 ---
 
-# Neu-Reconnaissance
+# Neuer Rennaissance
 
 ## The Central Concept
 
-“Neu-reconnaissance” within this project can be understood as:
+“Neuer Renaissance” within this project can be understood as:
 
 > the exploration and reconstruction of meaning through layered consciousness, memory, symbolism, history, and perception.
 
@@ -400,7 +400,7 @@ The project examines how:
 * the brain recognizes symbols,
 * humanity reconstructs narratives,
 * time modifies truth,
-* art becomes neurological memory.
+* Art becomes neurological memory.
 
 Thus *The Last Supper* becomes:
 
@@ -411,7 +411,7 @@ Thus *The Last Supper* becomes:
 
 # Conclusion
 
-*Awe-Some-Da-Vinci: State of Neu-Reconnaissance* transforms entity["artwork","The Last Supper","Mural by Leonardo da Vinci"] from a religious mural into a multidimensional investigation.
+*Awe-Some-Da-Vinci: State of Neuer Renaissance* transforms entity ["artwork", "The Last Supper", "Mural by Leonardo da Vinci"] from a religious mural into a multidimensional investigation.
 
 The project questions:
 
