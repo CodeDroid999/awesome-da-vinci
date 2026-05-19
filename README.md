@@ -470,10 +470,8 @@ It asks:
 
 ---
 
-# 2. /for-philosophers
+# 2. [/for-philosophers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-philosophers#readme)
 
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-philosophers
 
 ### Who it is for:
 - Philosophers of mind  
@@ -495,10 +493,8 @@ It asks:
 
 ---
 
-# 3. /for-artists
+# 3. [/for-artists](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-artists#readme)
 
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-artists
 
 ### Who it is for:
 - Visual artists  
@@ -520,7 +516,8 @@ It reframes painting as:
 
 ---
 
-# 4. /for-theologians
+# 4. [/for-theologians](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-theologians#readme)
+
 
 **Link:**  
 https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-theologians
@@ -543,10 +540,7 @@ It asks:
 
 ---
 
-# 5. /for-psychologists
-
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-psychologists
+# 5. [/for-psychologists](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-psychologists#readme)
 
 ### Who it is for:
 - Cognitive psychologists  
@@ -567,10 +561,7 @@ It models human cognition as:
 
 ---
 
-# 6. /for-historians
-
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-historians
+# 6. [/for-historians](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-historians#readme)
 
 ### Who it is for:
 - Renaissance historians  
@@ -590,10 +581,7 @@ It proposes:
 
 ---
 
-# 7. /for-engineers
-
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-engineers
+# 7. [/for-engineers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-engineers#readme)
 
 ### Who it is for:
 - Systems engineers  
@@ -612,10 +600,8 @@ It asks:
 
 ---
 
-# 8. /for-ai-researchers
+# 8. [/for-ai-researchers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-ai-researchers#readme)
 
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-ai-researchers
 
 ### Who it is for:
 - AI researchers  
@@ -635,13 +621,10 @@ It reframes cognition as:
 
 ---
 
-# 9. /for-readers
-
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-readers
+# 9. [/for-book-worms](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-book-worms#readme)
 
 ### Who it is for:
-- General audiences  
+- Book Worms
 - Students  
 - Creative thinkers  
 
@@ -656,10 +639,7 @@ It translates complexity into:
 
 ---
 
-# 10. /for-meta
-
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-meta
+# 10. [/for-meta](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-meta#readme)
 
 ### Who it is for:
 - Systems theorists  
