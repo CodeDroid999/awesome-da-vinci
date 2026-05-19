@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      background: #0b0f14;
+      color: #e6e6e6;
+    }
+
+    .sidebar {
+      width: 320px;
+      background: #111826;
+      height: 100vh;
+      overflow-y: auto;
+      padding: 20px;
+      position: fixed;
+    }
+
+    .sidebar h2 {
+      font-size: 14px;
+      color: #9aa4b2;
+      margin-top: 20px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .sidebar a {
+      display: block;
+      color: #e6e6e6;
+      text-decoration: none;
+      padding: 6px 0;
+      font-size: 14px;
+    }
+
+    .sidebar a:hover {
+      color: #6aa6ff;
+    }
+
+    .content {
+      margin-left: 340px;
+      padding: 40px;
+      max-width: 900px;
+    }
+
+    .title {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    code {
+      background: #1c2433;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="sidebar">
+    <h1>Awe-Some-Da-Vinci</h1>
+
+    <h2>Core System</h2>
+    <a href="/for-programmers/">Index</a>
+    <a href="/for-programmers/00010110_the_last_supper_as_complete_cognitive_operating_system/">21 - Cognitive OS</a>
+
+    <h2>Explorations</h2>
+    <a href="/for-programmers/00010011_the_last_supper_as_causal_inference_engine/">11 - Causal Inference</a>
+    <a href="/for-programmers/00010000_the_last_supper_as_distributed_memory_system/">12 - Memory System</a>
+    <a href="/for-programmers/00010001_the_supper_as_threshold_of_reality/">13 - Threshold Reality</a>
+    <a href="/for-programmers/00010010_time_folding_into_a_single_instant/">14 - Time Folding</a>
+    <a href="/for-programmers/00010011_shared_atmospheric_field_of_consciousness/">15 - Conscious Field</a>
+    <a href="/for-programmers/00010000_the_painting_as_cognitive_explosion/">16 - Cognitive Explosion</a>
+    <a href="/for-programmers/00010001_the_event_as_a_living_system/">17 - Living System</a>
+    <a href="/for-programmers/00010010_the_supper_as_threshold_of_reality/">18 - Reality Engine</a>
+    <a href="/for-programmers/00010011_time_folding_into_a_single_instant/">19 - Time Compression</a>
+    <a href="/for-programmers/00010000_the_last_supper_as_distributed_memory_system/">20 - Memory Graph</a>
+
+    <h2>Meta Layer</h2>
+    <a href="/for-programmers/">System Overview</a>
+  </div>
+
+  <div class="content">
+    <div class="title">{{ page.title }}</div>
+    {{ content }}
+  </div>
+
+</body>
+</html>
