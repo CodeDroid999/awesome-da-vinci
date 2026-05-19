@@ -1,5 +1,3 @@
-# /for-programmers/README.md
-
 # Awe-Some-Da-Vinci — For Programmers
 
 ## The Last Supper as Computational Consciousness
