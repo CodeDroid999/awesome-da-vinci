@@ -1,0 +1,8 @@
+title: Awe-Some-Da-Vinci
+description: Cognitive Systems Exploration of The Last Supper
+theme: minima
+
+collections:
+  for-programmers:
+    output: true
+    permalink: /exploartions/for-programmers/:name/
