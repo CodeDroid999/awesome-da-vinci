@@ -250,77 +250,64 @@ The structure is intentionally modular, as if the painting were a distributed so
 
 
 ## Causal Inference Engine
-- [00010011_the_last_supper_as_causal_inference_engine.md](/for-programmers/00010011_the_last_supper_as_causal_inference_engine.md)
 
 A Bayesian reasoning system where betrayal is treated as a latent variable and all disciples operate as probabilistic inference nodes updating belief states under uncertainty.
 
 ---
 
 ## Distributed Memory System
-- [00010000_the_last_supper_as_distributed_memory_system.md](/for-programmers/00010000_the_last_supper_as_distributed_memory_system.md)
 
 A decentralized memory architecture where recollection is fragmented across agents, with no single node holding complete truth, only partial reconstructions.
 
 ---
 
 ## Threshold of Reality System
-- [00010001_the_supper_as_threshold_of_reality.md](/for-programmers/00010001_the_supper_as_threshold_of_reality.md)
 
 A phase transition model where the event represents the boundary between stable meaning and unstable meaning collapse.
 
 ---
 
 ## Time Folding Engine
-- [00010010_time_folding_into_a_single_instant.md](/for-programmers/00010010_time_folding_into_a_single_instant.md)
 
 A temporal compression system where past, present, future, and eternal memory are folded into a single perceptual execution frame.
 
 ---
 
 ## Shared Consciousness Field
-- [00010011_shared_atmospheric_field_of_consciousness.md](/for-programmers/00010011_shared_atmospheric_field_of_consciousness.md)
 
 A model where emotion behaves as an atmospheric medium, and cognition propagates like environmental weather across agents.
 
 ---
 
 ## Cognitive Explosion Model
-- [00010000_the_painting_as_cognitive_explosion.md](/for-programmers/00010000_the_painting_as_cognitive_explosion.md)
 
 A unified shock-event system where meaning fractures simultaneously across all agents at the moment of semantic rupture.
 
 ---
 
 ## Living Event System
-- [00010001_the_event_as_a_living_system.md](/for-programmers/00010001_the_event_as_a_living_system.md)
 
 A self-processing symbolic organism where the event behaves as an adaptive system with internal state propagation and reactive dynamics.
 
 ---
 
 ## Reality Threshold Engine
-- [00010010_the_supper_as_threshold_of_reality.md](/for-programmers/00010010_the_supper_as_threshold_of_reality.md)
-
 A boundary system where reality transitions between stable and unstable configurations at the moment of revelation.
 
 ---
 
 ## Temporal Compression System
-- [00010011_time_folding_into_a_single_instant.md](/for-programmers/00010011_time_folding_into_a_single_instant.md)
 
 A deep-time architecture where all temporal layers collapse into a single symbolic execution instant.
 
 ---
 
 ## Distributed Memory Graph System
-- [00010000_the_last_supper_as_distributed_memory_system.md](/for-programmers/00010000_the_last_supper_as_distributed_memory_system.md)
-
 A graph-based memory model where recollection is distributed across nodes with drift, inconsistency, and partial synchronization.
 
 ---
 
 ## Complete Cognitive Operating System (MASTER INTEGRATION)
-- [00010110_the_last_supper_as_complete_cognitive_operating_system.md](/for-programmers/00010110_the_last_supper_as_complete_cognitive_operating_system.md)
 
 A full-system integration layer combining:
 
@@ -352,17 +339,3 @@ Across all modules, the system defines:
 
 ---
 
-# ENTRY POINT
-
-Start execution at:
-
-→ Complete Cognitive Operating System  
-/for-programmers/00010110_the_last_supper_as_complete_cognitive_operating_system.md
-
----
-
-# FINAL STATEMENT
-
-This repository does not analyze:contentReference[oaicite:1]{index=1}.
-
-It reconstructs it as a **computational architecture of consciousness**, where art behaves like an executable system rather than a static image.
