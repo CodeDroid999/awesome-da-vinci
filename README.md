@@ -443,10 +443,8 @@ We invite researchers, artists, engineers, and thinkers to explore and contribut
 
 ---
 
-# 1. /for-programmers
+# 1. [/for-programmers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-programmers)
 
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-programmers
 
 ### Who it is for:
 - Software engineers  
