@@ -10,7 +10,6 @@
 </div>
 
 ### A Philosophical and Artistic Exploration of Italian Renaissance polymath and painter’s entity artwork, "The Last Supper", "Mural by Leonardo da Vinci".
-
 ---
 
 # Introduction
