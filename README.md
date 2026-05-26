@@ -25,7 +25,6 @@ The investigation is built around five major points:
 5. History Against the Passing of Time — questioning whether *The Last Supper* remains the “last” supper when time continuously reconstructs meaning.
 
 The work exists between art criticism, theology, metaphysics, historical analysis, and neu-reconnaissance — the reconstruction of meaning through layered perception.
-
 ---
 
 # The Painter
