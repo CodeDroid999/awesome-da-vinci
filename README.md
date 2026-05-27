@@ -26,7 +26,6 @@ The investigation is built around five major points:
 
 The work exists between art criticism, theology, metaphysics, historical analysis, and neu-reconnaissance — the reconstruction of meaning through layered perception.
 ---
-
 # The Painter
 
 ## Questioning the Hand of Leonardo
