@@ -428,174 +428,17 @@ Therefore, *The Last Supper* is not merely a past event.
 It is an ongoing human condition.
 
 
-## Awe-Some-Da-Vinci — For You
-
-This project explores :contentReference[oaicite:0]{index=0} as a **multi-layer cognitive operating system**, spanning art, cognition, theology, systems engineering, and computational philosophy.
-
-It is not a reinterpretation of a painting.
-
-It is a structured attempt to model meaning, perception, and consciousness as executable systems.
-
-We invite researchers, artists, engineers, and thinkers to explore and contribute across the following domains.
-
----
-
-# 1. [/for-programmers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-programmers#readme)
 
 
-### Who it is for:
-- Software engineers  
-- Systems architects  
-- AI/ML researchers  
-- Distributed systems engineers  
-- Computational modelers  
-
-### What you will find:
-A full **cognitive operating system model** of The Last Supper:
-- communication protocols as meaning exchange  
-- identity as probabilistic state machine  
-- time as asynchronous processing  
-- trust as a security architecture  
-- multi-agent inference systems  
-
-### Why you should explore it:
-If you think in systems, code, or architectures—this section reframes art as a **computable cognitive environment**.
-
-It asks:
-
-> What if a painting behaves like a distributed system?
-
----
-
-# 2. [/for-philosophers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-philosophers#readme)
+  
 
 
-### Who it is for:
-- Philosophers of mind  
-- Metaphysicians  
-- Epistemologists  
-- Phenomenologists  
-- Semiotic theorists  
-
-### What you will find:
-- meaning construction  
-- truth under uncertainty  
-- perception as interpretation layer  
-- consciousness as distributed cognition  
-
-### Why you should explore it:
-It asks:
-
-> Is meaning discovered—or continuously computed by consciousness itself?
-
----
-
-# 3. [/for-artists](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-artists#readme)
 
 
-### Who it is for:
-- Visual artists  
-- Conceptual artists  
-- Digital creators  
-- Art historians  
-- Curators  
-
-### What you will find:
-- composition as cognition  
-- symbolic emotional architecture  
-- visual tension as thought structure  
-- art as living system rather than object  
-
-### Why you should explore it:
-It reframes painting as:
-
-> a thinking field made visible
-
----
-
-# 4. [/for-theologians](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-theologians#readme)
 
 
-**Link:**  
-https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-theologians
 
-### Who it is for:
-- Theologians  
-- Biblical scholars  
-- Religious historians  
-- Symbolic interpreters of scripture  
 
-### What you will find:
-- divine centrality as cognitive structure  
-- disciples as archetypal human states  
-- sacred narrative as recursive symbolic system  
-
-### Why you should explore it:
-It asks:
-
-> Is sacred narrative static revelation—or a living symbolic computation?
-
----
-
-# 5. [/for-psychologists](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-psychologists#readme)
-
-### Who it is for:
-- Cognitive psychologists  
-- Neuroaesthetics researchers  
-- Perception scientists  
-- Emotion modeling researchers  
-
-### What you will find:
-- emotion as distributed field  
-- group cognition under tension  
-- betrayal as identity instability trigger  
-- perception under uncertainty  
-
-### Why you should explore it:
-It models human cognition as:
-
-> a shared system under sudden semantic shock
-
----
-
-# 6. [/for-historians](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-historians#readme)
-
-### Who it is for:
-- Renaissance historians  
-- Intellectual historians  
-- Cultural historians  
-- Archive researchers  
-
-### What you will find:
-- history as layered reconstruction  
-- meaning drift across centuries  
-- restoration as reinterpretation  
-
-### Why you should explore it:
-It proposes:
-
-> history is not preserved—it is continuously recomputed
-
----
-
-# 7. [/for-engineers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-engineers#readme)
-
-### Who it is for:
-- Systems engineers  
-- Infrastructure designers  
-- Complexity engineers  
-
-### What you will find:
-- stability vs collapse architectures  
-- structural models of symbolic systems  
-- resilience in meaning networks  
-
-### Why you should explore it:
-It asks:
-
-> Can meaning systems be engineered like resilient infrastructures?
-
----
 
 # 8. [/for-ai-researchers](https://github.com/CodeDroid999/awesome-da-vinci/tree/main/explorations/for-ai-researchers#readme)
 
