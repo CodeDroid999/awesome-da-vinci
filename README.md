@@ -1,4 +1,4 @@
-i8# Awe-Some-Da-Vinci
+# Awe-Some-Da-Vinci
 
 ## State of Neuer Rennaissance
 <div align="center">
