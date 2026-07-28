@@ -1,4 +1,4 @@
-# Awe-Some-Da-Vinci
+i8# Awe-Some-Da-Vinci
 
 ## State of Neuer Rennaissance
 <div align="center">
@@ -32,7 +32,7 @@ The work exists between art criticism, theology, metaphysics, historical analysi
 
 ### Who was Leonardo painting for?
 
-"Leonardo da Vinci","Italian Renaissance polymath and painter"] was not simply documenting a biblical scene. He was constructing a psychological theatre.
+"Leonardo da Vinci",Italian Renaissance polymath and painter was not simply documenting a biblical scene. He was constructing a psychological theatre.
 
 Unlike earlier religious painters who emphasized holiness through static symbolism, Leonardo transformed the moment into an emotional explosion. The painting captures the exact moment when Jesus says:
 
@@ -732,6 +732,7 @@ Then you are not outside this project.
 You are already part of its unfinished structure.
 
 ---
+
 
 ## Join the movement
 
